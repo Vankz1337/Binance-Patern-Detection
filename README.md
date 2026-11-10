@@ -1,4 +1,4 @@
-# Invictus Web 2.0 Alpha 20
+# Patern Finder Web (Beta)
 
 Single-web trading workspace with separate dashboards:
 
